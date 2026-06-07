@@ -1,0 +1,3402 @@
+[
+  {
+    "input": "John Smith visited on March 5 and paid $250.",
+    "output": {
+      "name": "John Smith",
+      "date": "March 5",
+      "money_amount": "$250"
+    }
+  },
+  {
+    "input": "Sarah Johnson arrived on April 12 and paid $125.50.",
+    "output": {
+      "name": "Sarah Johnson",
+      "date": "April 12",
+      "money_amount": "$125.50"
+    }
+  },
+  {
+    "input": "Michael Brown visited on January 8 and paid $75.",
+    "output": {
+      "name": "Michael Brown",
+      "date": "January 8",
+      "money_amount": "$75"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 20 and paid $300.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 20",
+      "money_amount": "$300"
+    }
+  },
+  {
+    "input": "Robert Wilson visited on September 15 and paid $45.99.",
+    "output": {
+      "name": "Robert Wilson",
+      "date": "September 15",
+      "money_amount": "$45.99"
+    }
+  },
+  {
+    "input": "David Miller visited on February 11 and paid $180.",
+    "output": {
+      "name": "David Miller",
+      "date": "February 11",
+      "money_amount": "$180"
+    }
+  },
+  {
+    "input": "Jessica Moore arrived on July 3 and paid $220.",
+    "output": {
+      "name": "Jessica Moore",
+      "date": "July 3",
+      "money_amount": "$220"
+    }
+  },
+  {
+    "input": "Daniel Taylor visited on August 18 and paid $95.75.",
+    "output": {
+      "name": "Daniel Taylor",
+      "date": "August 18",
+      "money_amount": "$95.75"
+    }
+  },
+  {
+    "input": "Ashley Anderson checked in on May 29 and paid $410.",
+    "output": {
+      "name": "Ashley Anderson",
+      "date": "May 29",
+      "money_amount": "$410"
+    }
+  },
+  {
+    "input": "Christopher Thomas visited on October 7 and paid $88.",
+    "output": {
+      "name": "Christopher Thomas",
+      "date": "October 7",
+      "money_amount": "$88"
+    }
+  },
+  {
+    "input": "Amanda Jackson visited on November 14 and paid $135.",
+    "output": {
+      "name": "Amanda Jackson",
+      "date": "November 14",
+      "money_amount": "$135"
+    }
+  },
+  {
+    "input": "Matthew White arrived on December 1 and paid $520.",
+    "output": {
+      "name": "Matthew White",
+      "date": "December 1",
+      "money_amount": "$520"
+    }
+  },
+  {
+    "input": "Jennifer Harris visited on January 19 and paid $67.",
+    "output": {
+      "name": "Jennifer Harris",
+      "date": "January 19",
+      "money_amount": "$67"
+    }
+  },
+  {
+    "input": "Joshua Martin checked in on February 24 and paid $340.",
+    "output": {
+      "name": "Joshua Martin",
+      "date": "February 24",
+      "money_amount": "$340"
+    }
+  },
+  {
+    "input": "Elizabeth Thompson visited on March 30 and paid $155.25.",
+    "output": {
+      "name": "Elizabeth Thompson",
+      "date": "March 30",
+      "money_amount": "$155.25"
+    }
+  },
+  {
+    "input": "Andrew Garcia arrived on April 9 and paid $285.",
+    "output": {
+      "name": "Andrew Garcia",
+      "date": "April 9",
+      "money_amount": "$285"
+    }
+  },
+  {
+    "input": "Megan Martinez visited on May 13 and paid $72.",
+    "output": {
+      "name": "Megan Martinez",
+      "date": "May 13",
+      "money_amount": "$72"
+    }
+  },
+  {
+    "input": "Ryan Robinson checked in on June 28 and paid $610.",
+    "output": {
+      "name": "Ryan Robinson",
+      "date": "June 28",
+      "money_amount": "$610"
+    }
+  },
+  {
+    "input": "Lauren Clark visited on July 16 and paid $140.",
+    "output": {
+      "name": "Lauren Clark",
+      "date": "July 16",
+      "money_amount": "$140"
+    }
+  },
+  {
+    "input": "Brandon Rodriguez arrived on August 5 and paid $92.30.",
+    "output": {
+      "name": "Brandon Rodriguez",
+      "date": "August 5",
+      "money_amount": "$92.30"
+    }
+  },
+  {
+    "input": "Nicole Lewis visited on September 21 and paid $260.",
+    "output": {
+      "name": "Nicole Lewis",
+      "date": "September 21",
+      "money_amount": "$260"
+    }
+  },
+  {
+    "input": "Justin Lee checked in on October 11 and paid $330.",
+    "output": {
+      "name": "Justin Lee",
+      "date": "October 11",
+      "money_amount": "$330"
+    }
+  },
+  {
+    "input": "Samantha Walker visited on November 26 and paid $81.",
+    "output": {
+      "name": "Samantha Walker",
+      "date": "November 26",
+      "money_amount": "$81"
+    }
+  },
+  {
+    "input": "Kevin Hall arrived on December 18 and paid $475.",
+    "output": {
+      "name": "Kevin Hall",
+      "date": "December 18",
+      "money_amount": "$475"
+    }
+  },
+  {
+    "input": "Rachel Allen visited on January 4 and paid $99.",
+    "output": {
+      "name": "Rachel Allen",
+      "date": "January 4",
+      "money_amount": "$99"
+    }
+  },
+  {
+    "input": "Steven Young checked in on February 14 and paid $205.",
+    "output": {
+      "name": "Steven Young",
+      "date": "February 14",
+      "money_amount": "$205"
+    }
+  },
+  {
+    "input": "Rebecca Hernandez visited on March 22 and paid $315.",
+    "output": {
+      "name": "Rebecca Hernandez",
+      "date": "March 22",
+      "money_amount": "$315"
+    }
+  },
+  {
+    "input": "Eric King arrived on April 27 and paid $58.",
+    "output": {
+      "name": "Eric King",
+      "date": "April 27",
+      "money_amount": "$58"
+    }
+  },
+  {
+    "input": "Stephanie Wright visited on May 6 and paid $420.",
+    "output": {
+      "name": "Stephanie Wright",
+      "date": "May 6",
+      "money_amount": "$420"
+    }
+  },
+  {
+    "input": "Nathan Lopez checked in on June 17 and paid $187.",
+    "output": {
+      "name": "Nathan Lopez",
+      "date": "June 17",
+      "money_amount": "$187"
+    }
+  },
+  {
+    "input": "Olivia Hill visited on July 25 and paid $249.99.",
+    "output": {
+      "name": "Olivia Hill",
+      "date": "July 25",
+      "money_amount": "$249.99"
+    }
+  },
+  {
+    "input": "Tyler Scott arrived on August 9 and paid $510.",
+    "output": {
+      "name": "Tyler Scott",
+      "date": "August 9",
+      "money_amount": "$510"
+    }
+  },
+  {
+    "input": "Hannah Green visited on September 12 and paid $69.",
+    "output": {
+      "name": "Hannah Green",
+      "date": "September 12",
+      "money_amount": "$69"
+    }
+  },
+  {
+    "input": "Zachary Adams checked in on October 30 and paid $380.",
+    "output": {
+      "name": "Zachary Adams",
+      "date": "October 30",
+      "money_amount": "$380"
+    }
+  },
+  {
+    "input": "Victoria Baker visited on November 8 and paid $142.",
+    "output": {
+      "name": "Victoria Baker",
+      "date": "November 8",
+      "money_amount": "$142"
+    }
+  },
+  {
+    "input": "Aaron Gonzalez arrived on December 24 and paid $295.",
+    "output": {
+      "name": "Aaron Gonzalez",
+      "date": "December 24",
+      "money_amount": "$295"
+    }
+  },
+  {
+    "input": "Grace Nelson visited on January 28 and paid $85.40.",
+    "output": {
+      "name": "Grace Nelson",
+      "date": "January 28",
+      "money_amount": "$85.40"
+    }
+  },
+  {
+    "input": "Adam Carter checked in on February 6 and paid $560.",
+    "output": {
+      "name": "Adam Carter",
+      "date": "February 6",
+      "money_amount": "$560"
+    }
+  },
+  {
+    "input": "Chloe Mitchell visited on March 14 and paid $175.",
+    "output": {
+      "name": "Chloe Mitchell",
+      "date": "March 14",
+      "money_amount": "$175"
+    }
+  },
+  {
+    "input": "Jordan Perez arrived on April 20 and paid $120.",
+    "output": {
+      "name": "Jordan Perez",
+      "date": "April 20",
+      "money_amount": "$120"
+    }
+  },
+  {
+    "input": "Lily Roberts visited on May 31 and paid $445.",
+    "output": {
+      "name": "Lily Roberts",
+      "date": "May 31",
+      "money_amount": "$445"
+    }
+  },
+  {
+    "input": "Ethan Turner checked in on June 8 and paid $90.",
+    "output": {
+      "name": "Ethan Turner",
+      "date": "June 8",
+      "money_amount": "$90"
+    }
+  },
+  {
+    "input": "Natalie Phillips visited on July 19 and paid $230.",
+    "output": {
+      "name": "Natalie Phillips",
+      "date": "July 19",
+      "money_amount": "$230"
+    }
+  },
+  {
+    "input": "Logan Campbell arrived on August 27 and paid $355.",
+    "output": {
+      "name": "Logan Campbell",
+      "date": "August 27",
+      "money_amount": "$355"
+    }
+  },
+  {
+    "input": "Avery Parker visited on September 4 and paid $77.",
+    "output": {
+      "name": "Avery Parker",
+      "date": "September 4",
+      "money_amount": "$77"
+    }
+  },
+  {
+    "input": "Benjamin Evans checked in on October 22 and paid $490.",
+    "output": {
+      "name": "Benjamin Evans",
+      "date": "October 22",
+      "money_amount": "$490"
+    }
+  },
+  {
+    "input": "Sophia Edwards visited on November 16 and paid $160.",
+    "output": {
+      "name": "Sophia Edwards",
+      "date": "November 16",
+      "money_amount": "$160"
+    }
+  },
+  {
+    "input": "Jacob Collins arrived on December 10 and paid $275.50.",
+    "output": {
+      "name": "Jacob Collins",
+      "date": "December 10",
+      "money_amount": "$275.50"
+    }
+  },
+  {
+    "input": "Mia Stewart visited on January 15 and paid $105.",
+    "output": {
+      "name": "Mia Stewart",
+      "date": "January 15",
+      "money_amount": "$105"
+    }
+  },
+  {
+    "input": "William Sanchez checked in on February 27 and paid $615.",
+    "output": {
+      "name": "William Sanchez",
+      "date": "February 27",
+      "money_amount": "$615"
+    }
+  },
+  {
+    "input": "Ella Morris visited on March 9 and paid $134.",
+    "output": {
+      "name": "Ella Morris",
+      "date": "March 9",
+      "money_amount": "$134"
+    }
+  },
+  {
+    "input": "James Rogers arrived on April 18 and paid $288.",
+    "output": {
+      "name": "James Rogers",
+      "date": "April 18",
+      "money_amount": "$288"
+    }
+  },
+  {
+    "input": "Scarlett Reed visited on May 24 and paid $64.",
+    "output": {
+      "name": "Scarlett Reed",
+      "date": "May 24",
+      "money_amount": "$64"
+    }
+  },
+  {
+    "input": "Alexander Cook checked in on June 12 and paid $375.",
+    "output": {
+      "name": "Alexander Cook",
+      "date": "June 12",
+      "money_amount": "$375"
+    }
+  },
+  {
+    "input": "Aria Morgan visited on July 7 and paid $198.",
+    "output": {
+      "name": "Aria Morgan",
+      "date": "July 7",
+      "money_amount": "$198"
+    }
+  },
+  {
+    "input": "Henry Bell arrived on August 15 and paid $320.",
+    "output": {
+      "name": "Henry Bell",
+      "date": "August 15",
+      "money_amount": "$320"
+    }
+  },
+  {
+    "input": "Layla Murphy visited on September 28 and paid $89.99.",
+    "output": {
+      "name": "Layla Murphy",
+      "date": "September 28",
+      "money_amount": "$89.99"
+    }
+  },
+  {
+    "input": "Sebastian Bailey checked in on October 13 and paid $455.",
+    "output": {
+      "name": "Sebastian Bailey",
+      "date": "October 13",
+      "money_amount": "$455"
+    }
+  },
+  {
+    "input": "Nora Rivera visited on November 2 and paid $112.",
+    "output": {
+      "name": "Nora Rivera",
+      "date": "November 2",
+      "money_amount": "$112"
+    }
+  },
+  {
+    "input": "Jack Cooper arrived on December 21 and paid $267.",
+    "output": {
+      "name": "Jack Cooper",
+      "date": "December 21",
+      "money_amount": "$267"
+    }
+  },
+  {
+    "input": "Zoey Richardson visited on January 11 and paid $93.",
+    "output": {
+      "name": "Zoey Richardson",
+      "date": "January 11",
+      "money_amount": "$93"
+    }
+  },
+  {
+    "input": "Luke Cox checked in on February 20 and paid $540.",
+    "output": {
+      "name": "Luke Cox",
+      "date": "February 20",
+      "money_amount": "$540"
+    }
+  },
+  {
+    "input": "Penelope Howard visited on March 17 and paid $150.",
+    "output": {
+      "name": "Penelope Howard",
+      "date": "March 17",
+      "money_amount": "$150"
+    }
+  },
+  {
+    "input": "Gabriel Ward arrived on April 30 and paid $305.",
+    "output": {
+      "name": "Gabriel Ward",
+      "date": "April 30",
+      "money_amount": "$305"
+    }
+  },
+  {
+    "input": "Riley Torres visited on May 11 and paid $79.",
+    "output": {
+      "name": "Riley Torres",
+      "date": "May 11",
+      "money_amount": "$79"
+    }
+  },
+  {
+    "input": "Carter Peterson checked in on June 23 and paid $430.",
+    "output": {
+      "name": "Carter Peterson",
+      "date": "June 23",
+      "money_amount": "$430"
+    }
+  },
+  {
+    "input": "Aubrey Gray visited on July 29 and paid $186.",
+    "output": {
+      "name": "Aubrey Gray",
+      "date": "July 29",
+      "money_amount": "$186"
+    }
+  },
+  {
+    "input": "Julian Ramirez arrived on August 2 and paid $299.",
+    "output": {
+      "name": "Julian Ramirez",
+      "date": "August 2",
+      "money_amount": "$299"
+    }
+  },
+  {
+    "input": "Addison James visited on September 19 and paid $54.",
+    "output": {
+      "name": "Addison James",
+      "date": "September 19",
+      "money_amount": "$54"
+    }
+  },
+  {
+    "input": "Levi Watson checked in on October 5 and paid $620.",
+    "output": {
+      "name": "Levi Watson",
+      "date": "October 5",
+      "money_amount": "$620"
+    }
+  },
+  {
+    "input": "Brooklyn Brooks visited on November 27 and paid $171.",
+    "output": {
+      "name": "Brooklyn Brooks",
+      "date": "November 27",
+      "money_amount": "$171"
+    }
+  },
+  {
+    "input": "Isaac Kelly arrived on December 6 and paid $245.",
+    "output": {
+      "name": "Isaac Kelly",
+      "date": "December 6",
+      "money_amount": "$245"
+    }
+  },
+  {
+    "input": "Savannah Sanders visited on January 22 and paid $83.",
+    "output": {
+      "name": "Savannah Sanders",
+      "date": "January 22",
+      "money_amount": "$83"
+    }
+  },
+  {
+    "input": "Anthony Price checked in on February 9 and paid $390.",
+    "output": {
+      "name": "Anthony Price",
+      "date": "February 9",
+      "money_amount": "$390"
+    }
+  },
+  {
+    "input": "Claire Bennett visited on March 26 and paid $118.",
+    "output": {
+      "name": "Claire Bennett",
+      "date": "March 26",
+      "money_amount": "$118"
+    }
+  },
+  {
+    "input": "Dylan Wood arrived on April 7 and paid $275.",
+    "output": {
+      "name": "Dylan Wood",
+      "date": "April 7",
+      "money_amount": "$275"
+    }
+  },
+  {
+    "input": "Lucy Barnes visited on May 18 and paid $96.",
+    "output": {
+      "name": "Lucy Barnes",
+      "date": "May 18",
+      "money_amount": "$96"
+    }
+  },
+  {
+    "input": "Thomas Ross checked in on June 30 and paid $515.",
+    "output": {
+      "name": "Thomas Ross",
+      "date": "June 30",
+      "money_amount": "$515"
+    }
+  },
+  {
+    "input": "Anna Henderson visited on July 14 and paid $148.",
+    "output": {
+      "name": "Anna Henderson",
+      "date": "July 14",
+      "money_amount": "$148"
+    }
+  },
+  {
+    "input": "Charles Coleman arrived on August 24 and paid $335.",
+    "output": {
+      "name": "Charles Coleman",
+      "date": "August 24",
+      "money_amount": "$335"
+    }
+  },
+  {
+    "input": "Leah Jenkins visited on September 8 and paid $61.",
+    "output": {
+      "name": "Leah Jenkins",
+      "date": "September 8",
+      "money_amount": "$61"
+    }
+  },
+  {
+    "input": "Connor Perry checked in on October 17 and paid $460.",
+    "output": {
+      "name": "Connor Perry",
+      "date": "October 17",
+      "money_amount": "$460"
+    }
+  },
+  {
+    "input": "Stella Powell visited on November 13 and paid $139.",
+    "output": {
+      "name": "Stella Powell",
+      "date": "November 13",
+      "money_amount": "$139"
+    }
+  },
+  {
+    "input": "Eli Long arrived on December 28 and paid $284.",
+    "output": {
+      "name": "Eli Long",
+      "date": "December 28",
+      "money_amount": "$284"
+    }
+  },
+  {
+    "input": "Hazel Patterson visited on January 6 and paid $87.",
+    "output": {
+      "name": "Hazel Patterson",
+      "date": "January 6",
+      "money_amount": "$87"
+    }
+  },
+  {
+    "input": "Owen Hughes checked in on February 16 and paid $405.",
+    "output": {
+      "name": "Owen Hughes",
+      "date": "February 16",
+      "money_amount": "$405"
+    }
+  },
+  {
+    "input": "Violet Flores visited on March 12 and paid $176.",
+    "output": {
+      "name": "Violet Flores",
+      "date": "March 12",
+      "money_amount": "$176"
+    }
+  },
+  {
+    "input": "Wyatt Washington arrived on April 25 and paid $318.",
+    "output": {
+      "name": "Wyatt Washington",
+      "date": "April 25",
+      "money_amount": "$318"
+    }
+  },
+  {
+    "input": "Aurora Butler visited on May 9 and paid $73.",
+    "output": {
+      "name": "Aurora Butler",
+      "date": "May 9",
+      "money_amount": "$73"
+    }
+  },
+  {
+    "input": "Samuel Simmons checked in on June 19 and paid $550.",
+    "output": {
+      "name": "Samuel Simmons",
+      "date": "June 19",
+      "money_amount": "$550"
+    }
+  },
+  {
+    "input": "Bella Foster visited on July 2 and paid $124.",
+    "output": {
+      "name": "Bella Foster",
+      "date": "July 2",
+      "money_amount": "$124"
+    }
+  },
+  {
+    "input": "Joseph Gonzales arrived on August 31 and paid $290.",
+    "output": {
+      "name": "Joseph Gonzales",
+      "date": "August 31",
+      "money_amount": "$290"
+    }
+  },
+  {
+    "input": "Madelyn Bryant visited on September 24 and paid $68.",
+    "output": {
+      "name": "Madelyn Bryant",
+      "date": "September 24",
+      "money_amount": "$68"
+    }
+  },
+  {
+    "input": "David Alexander checked in on October 8 and paid $435.",
+    "output": {
+      "name": "David Alexander",
+      "date": "October 8",
+      "money_amount": "$435"
+    }
+  },
+  {
+    "input": "Eva Russell visited on November 22 and paid $157.",
+    "output": {
+      "name": "Eva Russell",
+      "date": "November 22",
+      "money_amount": "$157"
+    }
+  },
+  {
+    "input": "Lincoln Griffin arrived on December 14 and paid $310.",
+    "output": {
+      "name": "Lincoln Griffin",
+      "date": "December 14",
+      "money_amount": "$310"
+    }
+  },
+  {
+    "input": "Sofia Diaz visited on January 30 and paid $78.",
+    "output": {
+      "name": "Sofia Diaz",
+      "date": "January 30",
+      "money_amount": "$78"
+    }
+  },
+  {
+    "input": "Mason Hayes checked in on February 4 and paid $465.",
+    "output": {
+      "name": "Mason Hayes",
+      "date": "February 4",
+      "money_amount": "$465"
+    }
+  },
+  {
+    "input": "Camila Myers visited on March 19 and paid $129.",
+    "output": {
+      "name": "Camila Myers",
+      "date": "March 19",
+      "money_amount": "$129"
+    }
+  },
+  {
+    "input": "Evan Ford arrived on April 14 and paid $255.",
+    "output": {
+      "name": "Evan Ford",
+      "date": "April 14",
+      "money_amount": "$255"
+    }
+  },
+  {
+    "input": "Aria Hamilton visited on May 27 and paid $82.50.",
+    "output": {
+      "name": "Aria Hamilton",
+      "date": "May 27",
+      "money_amount": "$82.50"
+    }
+  },
+  {
+    "input": "Nathaniel Graham checked in on June 5 and paid $480.",
+    "output": {
+      "name": "Nathaniel Graham",
+      "date": "June 5",
+      "money_amount": "$480"
+    }
+  },
+  {
+    "input": "Zoe Sullivan visited on July 21 and paid $195.",
+    "output": {
+      "name": "Zoe Sullivan",
+      "date": "July 21",
+      "money_amount": "$195"
+    }
+  },
+  {
+    "input": "Caleb Wallace arrived on August 12 and paid $305.75.",
+    "output": {
+      "name": "Caleb Wallace",
+      "date": "August 12",
+      "money_amount": "$305.75"
+    }
+  },
+  {
+    "input": "Lillian West visited on September 17 and paid $55.",
+    "output": {
+      "name": "Lillian West",
+      "date": "September 17",
+      "money_amount": "$55"
+    }
+  },
+  {
+    "input": "Christian Cole checked in on October 29 and paid $525.",
+    "output": {
+      "name": "Christian Cole",
+      "date": "October 29",
+      "money_amount": "$525"
+    }
+  },
+  {
+    "input": "Penelope Reed visited on November 5 and paid $132.",
+    "output": {
+      "name": "Penelope Reed",
+      "date": "November 5",
+      "money_amount": "$132"
+    }
+  },
+  {
+    "input": "Jonathan Morris arrived on December 3 and paid $260.",
+    "output": {
+      "name": "Jonathan Morris",
+      "date": "December 3",
+      "money_amount": "$260"
+    }
+  },
+  {
+    "input": "Luna Rogers visited on January 18 and paid $90.25.",
+    "output": {
+      "name": "Luna Rogers",
+      "date": "January 18",
+      "money_amount": "$90.25"
+    }
+  },
+  {
+    "input": "Christopher Reed checked in on February 25 and paid $410.",
+    "output": {
+      "name": "Christopher Reed",
+      "date": "February 25",
+      "money_amount": "$410"
+    }
+  },
+  {
+    "input": "Stella Cook visited on March 5 and paid $140.",
+    "output": {
+      "name": "Stella Cook",
+      "date": "March 5",
+      "money_amount": "$140"
+    }
+  },
+  {
+    "input": "Anthony Morgan arrived on April 22 and paid $275.50.",
+    "output": {
+      "name": "Anthony Morgan",
+      "date": "April 22",
+      "money_amount": "$275.50"
+    }
+  },
+  {
+    "input": "Hannah Bell visited on May 15 and paid $68.75.",
+    "output": {
+      "name": "Hannah Bell",
+      "date": "May 15",
+      "money_amount": "$68.75"
+    }
+  },
+  {
+    "input": "Benjamin Murphy checked in on June 27 and paid $490.",
+    "output": {
+      "name": "Benjamin Murphy",
+      "date": "June 27",
+      "money_amount": "$490"
+    }
+  },
+  {
+    "input": "Zoe Bailey visited on July 10 and paid $180.",
+    "output": {
+      "name": "Zoe Bailey",
+      "date": "July 10",
+      "money_amount": "$180"
+    }
+  },
+  {
+    "input": "Samuel Rivera arrived on August 20 and paid $320.",
+    "output": {
+      "name": "Samuel Rivera",
+      "date": "August 20",
+      "money_amount": "$320"
+    }
+  },
+  {
+    "input": "Avery Cooper visited on September 3 and paid $75.50.",
+    "output": {
+      "name": "Avery Cooper",
+      "date": "September 3",
+      "money_amount": "$75.50"
+    }
+  },
+  {
+    "input": "Jacob Richardson checked in on October 19 and paid $455.",
+    "output": {
+      "name": "Jacob Richardson",
+      "date": "October 19",
+      "money_amount": "$455"
+    }
+  },
+  {
+    "input": "Madison Cox visited on November 9 and paid $120.",
+    "output": {
+      "name": "Madison Cox",
+      "date": "November 9",
+      "money_amount": "$120"
+    }
+  },
+  {
+    "input": "Michael Howard arrived on December 26 and paid $285.",
+    "output": {
+      "name": "Michael Howard",
+      "date": "December 26",
+      "money_amount": "$285"
+    }
+  },
+  {
+    "input": "Emily Ward visited on January 5 and paid $82.30.",
+    "output": {
+      "name": "Emily Ward",
+      "date": "January 5",
+      "money_amount": "$82.30"
+    }
+  },
+  {
+    "input": "David Brooks checked in on February 18 and paid $400.",
+    "output": {
+      "name": "David Brooks",
+      "date": "February 18",
+      "money_amount": "$400"
+    }
+  },
+  {
+    "input": "Olivia Turner visited on March 28 and paid $165.",
+    "output": {
+      "name": "Olivia Turner",
+      "date": "March 28",
+      "money_amount": "$165"
+    }
+  },
+  {
+    "input": "Ethan Scott arrived on April 10 and paid $250.75.",
+    "output": {
+      "name": "Ethan Scott",
+      "date": "April 10",
+      "money_amount": "$250.75"
+    }
+  },
+  {
+    "input": "Ava Mitchell visited on May 20 and paid $90.",
+    "output": {
+      "name": "Ava Mitchell",
+      "date": "May 20",
+      "money_amount": "$90"
+    }
+  },
+  {
+    "input": "Mason Carter checked in on June 15 and paid $470.",
+    "output": {
+      "name": "Mason Carter",
+      "date": "June 15",
+      "money_amount": "$470"
+    }
+  },
+  {
+    "input": "Isabella Phillips visited on July 27 and paid $210.",
+    "output": {
+      "name": "Isabella Phillips",
+      "date": "July 27",
+      "money_amount": "$210"
+    }
+  },
+  {
+    "input": "Logan Evans arrived on August 4 and paid $295.50.",
+    "output": {
+      "name": "Logan Evans",
+      "date": "August 4",
+      "money_amount": "$295.50"
+    }
+  },
+  {
+    "input": "Sophia Turner visited on September 14 and paid $60.25.",
+    "output": {
+      "name": "Sophia Turner",
+      "date": "September 14",
+      "money_amount": "$60.25"
+    }
+  },
+  {
+    "input": "Alexander Parker checked in on October 3 and paid $480.",
+    "output": {
+      "name": "Alexander Parker",
+      "date": "October 3",
+      "money_amount": "$480"
+    }
+  },
+  {
+    "input": "Mia Collins visited on November 19 and paid $130.",
+    "output": {
+      "name": "Mia Collins",
+      "date": "November 19",
+      "money_amount": "$130"
+    }
+  },
+  {
+    "input": "William Stewart arrived on December 8 and paid $270.",
+    "output": {
+      "name": "William Stewart",
+      "date": "December 8",
+      "money_amount": "$270"
+    }
+  },
+  {
+    "input": "Charlotte Morris visited on January 25 and paid $95.50.",
+    "output": {
+      "name": "Charlotte Morris",
+      "date": "January 25",
+      "money_amount": "$95.50"
+    }
+  },
+  {
+    "input": "James Turner checked in on February 12 and paid $385.",
+    "output": {
+      "name": "James Turner",
+      "date": "February 12",
+      "money_amount": "$385"
+    }
+  },
+  {
+    "input": "Amelia Reed visited on March 20 and paid $145.",
+    "output": {
+      "name": "Amelia Reed",
+      "date": "March 20",
+      "money_amount": "$145"
+    }
+  },
+  {
+    "input": "Benjamin Wilson arrived on April 5 and paid $265.75.",
+    "output": {
+      "name": "Benjamin Wilson",
+      "date": "April 5",
+      "money_amount": "$265.75"
+    }
+  },
+  {
+    "input": "Evelyn Baker visited on May 30 and paid $70.",
+    "output": {
+      "name": "Evelyn Baker",
+      "date": "May 30",
+      "money_amount": "$70"
+    }
+  },
+  {
+    "input": "Logan Mitchell checked in on June 10 and paid $455.",
+    "output": {
+      "name": "Logan Mitchell",
+      "date": "June 10",
+      "money_amount": "$455"
+    }
+  },
+  {
+    "input": "Sofia Carter visited on July 22 and paid $190.",
+    "output": {
+      "name": "Sofia Carter",
+      "date": "July 22",
+      "money_amount": "$190"
+    }
+  },
+  {
+    "input": "Jacob Turner arrived on August 18 and paid $310.50.",
+    "output": {
+      "name": "Jacob Turner",
+      "date": "August 18",
+      "money_amount": "$310.50"
+    }
+  },
+  {
+    "input": "Ava Roberts visited on September 6 and paid $80.25.",
+    "output": {
+      "name": "Ava Roberts",
+      "date": "September 6",
+      "money_amount": "$80.25"
+    }
+  },
+  {
+    "input": "Michael Lee checked in on October 24 and paid $465.",
+    "output": {
+      "name": "Michael Lee",
+      "date": "October 24",
+      "money_amount": "$465"
+    }
+  },
+  {
+    "input": "Isabella Harris visited on November 4 and paid $125.",
+    "output": {
+      "name": "Isabella Harris",
+      "date": "November 4",
+      "money_amount": "$125"
+    }
+  },
+  {
+    "input": "Ethan Clark arrived on December 16 and paid $280.",
+    "output": {
+      "name": "Ethan Clark",
+      "date": "December 16",
+      "money_amount": "$280"
+    }
+  },
+  {
+    "input": "Mia Lewis visited on January 9 and paid $88.75.",
+    "output": {
+      "name": "Mia Lewis",
+      "date": "January 9",
+      "money_amount": "$88.75"
+    }
+  },
+  {
+    "input": "William Walker checked in on February 28 and paid $420.",
+    "output": {
+      "name": "William Walker",
+      "date": "February 28",
+      "money_amount": "$420"
+    }
+  },
+  {
+    "input": "Emily Young visited on March 15 and paid $155.",
+    "output": {
+      "name": "Emily Young",
+      "date": "March 15",
+      "money_amount": "$155"
+    }
+  },
+  {
+    "input": "James Allen arrived on April 26 and paid $290.50.",
+    "output": {
+      "name": "James Allen",
+      "date": "April 26",
+      "money_amount": "$290.50"
+    }
+  },
+  {
+    "input": "Olivia King visited on May 8 and paid $65.25.",
+    "output": {
+      "name": "Olivia King",
+      "date": "May 8",
+      "money_amount": "$65.25"
+    }
+  },
+  {
+    "input": "Ethan Wright checked in on June 20 and paid $475.",
+    "output": {
+      "name": "Ethan Wright",
+      "date": "June 20",
+      "money_amount": "$475"
+    }
+  },
+  {
+    "input": "Ava Scott visited on July 5 and paid $200.",
+    "output": {
+      "name": "Ava Scott",
+      "date": "July 5",
+      "money_amount": "$200"
+    }
+  },
+  {
+    "input": "Mason Green arrived on August 28 and paid $325.75.",
+    "output": {
+      "name": "Mason Green",
+      "date": "August 28",
+      "money_amount": "$325.75"
+    }
+  },
+  {
+    "input": "Sophia Adams visited on September 10 and paid $70.50.",
+    "output": {
+      "name": "Sophia Adams",
+      "date": "September 10",
+      "money_amount": "$70.50"
+    }
+  },
+  {
+    "input": "Logan Baker checked in on October 16 and paid $490.",
+    "output": {
+      "name": "Logan Baker",
+      "date": "October 16",
+      "money_amount": "$490"
+    }
+  },
+  {
+    "input": "Isabella Nelson visited on November 25 and paid $135.",
+    "output": {
+      "name": "Isabella Nelson",
+      "date": "November 25",
+      "money_amount": "$135"
+    }
+  },
+  {
+    "input": "Jacob Carter arrived on December 20 and paid $275.",
+    "output": {
+      "name": "Jacob Carter",
+      "date": "December 20",
+      "money_amount": "$275"
+    }
+  },
+  {
+    "input": "Nora Bennett arrived on September 15 and paid $563.17.",
+    "output": {
+      "name": "Nora Bennett",
+      "date": "September 15",
+      "money_amount": "$563.17"
+    }
+  },
+  {
+    "input": "Riley Ramirez visited on April 24 and paid $418.25.",
+    "output": {
+      "name": "Riley Ramirez",
+      "date": "April 24",
+      "money_amount": "$418.25"
+    }
+  },
+  {
+    "input": "Riley Ortiz checked in on June 1 and paid $179.72.",
+    "output": {
+      "name": "Riley Ortiz",
+      "date": "June 1",
+      "money_amount": "$179.72"
+    }
+  },
+  {
+    "input": "Layla Hernandez checked in on September 5 and paid $619.78.",
+    "output": {
+      "name": "Layla Hernandez",
+      "date": "September 5",
+      "money_amount": "$619.78"
+    }
+  },
+  {
+    "input": "Layla Martinez checked in on November 5 and paid $645.59.",
+    "output": {
+      "name": "Layla Martinez",
+      "date": "November 5",
+      "money_amount": "$645.59"
+    }
+  },
+  {
+    "input": "Jacob Green visited on August 8 and paid $331.63.",
+    "output": {
+      "name": "Jacob Green",
+      "date": "August 8",
+      "money_amount": "$331.63"
+    }
+  },
+  {
+    "input": "Nora Wilson checked in on February 20 and paid $596.93.",
+    "output": {
+      "name": "Nora Wilson",
+      "date": "February 20",
+      "money_amount": "$596.93"
+    }
+  },
+  {
+    "input": "Alexander Scott visited on October 10 and paid $619.58.",
+    "output": {
+      "name": "Alexander Scott",
+      "date": "October 10",
+      "money_amount": "$619.58"
+    }
+  },
+  {
+    "input": "Mason Hughes visited on July 17 and paid $419.61.",
+    "output": {
+      "name": "Mason Hughes",
+      "date": "July 17",
+      "money_amount": "$419.61"
+    }
+  },
+  {
+    "input": "Layla Ross checked in on July 27 and paid $82.12.",
+    "output": {
+      "name": "Layla Ross",
+      "date": "July 27",
+      "money_amount": "$82.12"
+    }
+  },
+  {
+    "input": "Ava Rogers visited on April 10 and paid $179.91.",
+    "output": {
+      "name": "Ava Rogers",
+      "date": "April 10",
+      "money_amount": "$179.91"
+    }
+  },
+  {
+    "input": "Olivia Torres arrived on October 22 and paid $82.98.",
+    "output": {
+      "name": "Olivia Torres",
+      "date": "October 22",
+      "money_amount": "$82.98"
+    }
+  },
+  {
+    "input": "Isabella Martinez checked in on July 2 and paid $339.16.",
+    "output": {
+      "name": "Isabella Martinez",
+      "date": "July 2",
+      "money_amount": "$339.16"
+    }
+  },
+  {
+    "input": "Aiden Smith checked in on May 21 and paid $622.65.",
+    "output": {
+      "name": "Aiden Smith",
+      "date": "May 21",
+      "money_amount": "$622.65"
+    }
+  },
+  {
+    "input": "Mia Perez checked in on February 28 and paid $105.70.",
+    "output": {
+      "name": "Mia Perez",
+      "date": "February 28",
+      "money_amount": "$105.70"
+    }
+  },
+  {
+    "input": "Carter King arrived on April 24 and paid $241.07.",
+    "output": {
+      "name": "Carter King",
+      "date": "April 24",
+      "money_amount": "$241.07"
+    }
+  },
+  {
+    "input": "Addison Flores checked in on September 20 and paid $227.69.",
+    "output": {
+      "name": "Addison Flores",
+      "date": "September 20",
+      "money_amount": "$227.69"
+    }
+  },
+  {
+    "input": "Victoria Reed arrived on November 4 and paid $544.69.",
+    "output": {
+      "name": "Victoria Reed",
+      "date": "November 4",
+      "money_amount": "$544.69"
+    }
+  },
+  {
+    "input": "Liam Castillo checked in on March 26 and paid $603.32.",
+    "output": {
+      "name": "Liam Castillo",
+      "date": "March 26",
+      "money_amount": "$603.32"
+    }
+  },
+  {
+    "input": "Chloe Gomez visited on January 25 and paid $63.39.",
+    "output": {
+      "name": "Chloe Gomez",
+      "date": "January 25",
+      "money_amount": "$63.39"
+    }
+  },
+  {
+    "input": "Henry Lewis checked in on April 2 and paid $270.41.",
+    "output": {
+      "name": "Henry Lewis",
+      "date": "April 2",
+      "money_amount": "$270.41"
+    }
+  },
+  {
+    "input": "Nathan Flores visited on May 7 and paid $437.84.",
+    "output": {
+      "name": "Nathan Flores",
+      "date": "May 7",
+      "money_amount": "$437.84"
+    }
+  },
+  {
+    "input": "Addison Morris arrived on April 4 and paid $248.76.",
+    "output": {
+      "name": "Addison Morris",
+      "date": "April 4",
+      "money_amount": "$248.76"
+    }
+  },
+  {
+    "input": "Caleb Myers checked in on November 24 and paid $190.37.",
+    "output": {
+      "name": "Caleb Myers",
+      "date": "November 24",
+      "money_amount": "$190.37"
+    }
+  },
+  {
+    "input": "Henry Hall arrived on October 19 and paid $611.98.",
+    "output": {
+      "name": "Henry Hall",
+      "date": "October 19",
+      "money_amount": "$611.98"
+    }
+  },
+  {
+    "input": "Ella Gutierrez visited on May 28 and paid $353.63.",
+    "output": {
+      "name": "Ella Gutierrez",
+      "date": "May 28",
+      "money_amount": "$353.63"
+    }
+  },
+  {
+    "input": "Daniel Baker visited on November 19 and paid $524.42.",
+    "output": {
+      "name": "Daniel Baker",
+      "date": "November 19",
+      "money_amount": "$524.42"
+    }
+  },
+  {
+    "input": "Lucas Wood visited on November 25 and paid $410.54.",
+    "output": {
+      "name": "Lucas Wood",
+      "date": "November 25",
+      "money_amount": "$410.54"
+    }
+  },
+  {
+    "input": "Madison Mitchell arrived on September 14 and paid $423.15.",
+    "output": {
+      "name": "Madison Mitchell",
+      "date": "September 14",
+      "money_amount": "$423.15"
+    }
+  },
+  {
+    "input": "Charlotte Hernandez visited on February 25 and paid $464.80.",
+    "output": {
+      "name": "Charlotte Hernandez",
+      "date": "February 25",
+      "money_amount": "$464.80"
+    }
+  },
+  {
+    "input": "Zoe Ross arrived on August 10 and paid $348.21.",
+    "output": {
+      "name": "Zoe Ross",
+      "date": "August 10",
+      "money_amount": "$348.21"
+    }
+  },
+  {
+    "input": "Liam Russell checked in on October 3 and paid $217.62.",
+    "output": {
+      "name": "Liam Russell",
+      "date": "October 3",
+      "money_amount": "$217.62"
+    }
+  },
+  {
+    "input": "Aubrey Roberts arrived on June 2 and paid $224.54.",
+    "output": {
+      "name": "Aubrey Roberts",
+      "date": "June 2",
+      "money_amount": "$224.54"
+    }
+  },
+  {
+    "input": "Grace Russell visited on September 18 and paid $241.02.",
+    "output": {
+      "name": "Grace Russell",
+      "date": "September 18",
+      "money_amount": "$241.02"
+    }
+  },
+  {
+    "input": "Ruth Sullivan checked in on April 28 and paid $391.40.",
+    "output": {
+      "name": "Ruth Sullivan",
+      "date": "April 28",
+      "money_amount": "$391.40"
+    }
+  },
+  {
+    "input": "Layla Jenkins arrived on September 8 and paid $91.06.",
+    "output": {
+      "name": "Layla Jenkins",
+      "date": "September 8",
+      "money_amount": "$91.06"
+    }
+  },
+  {
+    "input": "Gabriel King visited on July 22 and paid $579.50.",
+    "output": {
+      "name": "Gabriel King",
+      "date": "July 22",
+      "money_amount": "$579.50"
+    }
+  },
+  {
+    "input": "Camila Reyes visited on October 4 and paid $442.91.",
+    "output": {
+      "name": "Camila Reyes",
+      "date": "October 4",
+      "money_amount": "$442.91"
+    }
+  },
+  {
+    "input": "Addison Lewis arrived on June 18 and paid $246.11.",
+    "output": {
+      "name": "Addison Lewis",
+      "date": "June 18",
+      "money_amount": "$246.11"
+    }
+  },
+  {
+    "input": "Anthony Cole checked in on November 17 and paid $495.91.",
+    "output": {
+      "name": "Anthony Cole",
+      "date": "November 17",
+      "money_amount": "$495.91"
+    }
+  },
+  {
+    "input": "Benjamin Hall checked in on June 17 and paid $77.30.",
+    "output": {
+      "name": "Benjamin Hall",
+      "date": "June 17",
+      "money_amount": "$77.30"
+    }
+  },
+  {
+    "input": "Michael Torres arrived on January 2 and paid $532.78.",
+    "output": {
+      "name": "Michael Torres",
+      "date": "January 2",
+      "money_amount": "$532.78"
+    }
+  },
+  {
+    "input": "Navy Ruiz visited on January 17 and paid $223.86.",
+    "output": {
+      "name": "Navy Ruiz",
+      "date": "January 17",
+      "money_amount": "$223.86"
+    }
+  },
+  {
+    "input": "Emily Bell visited on June 10 and paid $560.33.",
+    "output": {
+      "name": "Emily Bell",
+      "date": "June 10",
+      "money_amount": "$560.33"
+    }
+  },
+  {
+    "input": "Julian Hall checked in on February 24 and paid $604.37.",
+    "output": {
+      "name": "Julian Hall",
+      "date": "February 24",
+      "money_amount": "$604.37"
+    }
+  },
+  {
+    "input": "Scarlett Cook visited on November 20 and paid $211.93.",
+    "output": {
+      "name": "Scarlett Cook",
+      "date": "November 20",
+      "money_amount": "$211.93"
+    }
+  },
+  {
+    "input": "Samuel Moore visited on December 27 and paid $154.99.",
+    "output": {
+      "name": "Samuel Moore",
+      "date": "December 27",
+      "money_amount": "$154.99"
+    }
+  },
+  {
+    "input": "Lillian Moore checked in on June 23 and paid $644.73.",
+    "output": {
+      "name": "Lillian Moore",
+      "date": "June 23",
+      "money_amount": "$644.73"
+    }
+  },
+  {
+    "input": "Navy Williams arrived on July 1 and paid $104.88.",
+    "output": {
+      "name": "Navy Williams",
+      "date": "July 1",
+      "money_amount": "$104.88"
+    }
+  },
+  {
+    "input": "Joseph Richardson checked in on May 17 and paid $257.36.",
+    "output": {
+      "name": "Joseph Richardson",
+      "date": "May 17",
+      "money_amount": "$257.36"
+    }
+  },
+  {
+    "input": "Emily Gomez arrived on May 10 and paid $427.66.",
+    "output": {
+      "name": "Emily Gomez",
+      "date": "May 10",
+      "money_amount": "$427.66"
+    }
+  },
+  {
+    "input": "Aaliyah Cox arrived on February 17 and paid $545.73.",
+    "output": {
+      "name": "Aaliyah Cox",
+      "date": "February 17",
+      "money_amount": "$545.73"
+    }
+  },
+  {
+    "input": "Jackson Ross visited on May 26 and paid $309.21.",
+    "output": {
+      "name": "Jackson Ross",
+      "date": "May 26",
+      "money_amount": "$309.21"
+    }
+  },
+  {
+    "input": "Benjamin Scott arrived on July 9 and paid $55.32.",
+    "output": {
+      "name": "Benjamin Scott",
+      "date": "July 9",
+      "money_amount": "$55.32"
+    }
+  },
+  {
+    "input": "Leah Torres visited on January 28 and paid $196.23.",
+    "output": {
+      "name": "Leah Torres",
+      "date": "January 28",
+      "money_amount": "$196.23"
+    }
+  },
+  {
+    "input": "Charles Nguyen checked in on October 5 and paid $248.87.",
+    "output": {
+      "name": "Charles Nguyen",
+      "date": "October 5",
+      "money_amount": "$248.87"
+    }
+  },
+  {
+    "input": "Ava Reed arrived on February 17 and paid $144.13.",
+    "output": {
+      "name": "Ava Reed",
+      "date": "February 17",
+      "money_amount": "$144.13"
+    }
+  },
+  {
+    "input": "Olivia Flores arrived on June 12 and paid $147.34.",
+    "output": {
+      "name": "Olivia Flores",
+      "date": "June 12",
+      "money_amount": "$147.34"
+    }
+  },
+  {
+    "input": "Zoe Ramos arrived on December 18 and paid $427.07.",
+    "output": {
+      "name": "Zoe Ramos",
+      "date": "December 18",
+      "money_amount": "$427.07"
+    }
+  },
+  {
+    "input": "Evelyn Foster visited on May 5 and paid $471.55.",
+    "output": {
+      "name": "Evelyn Foster",
+      "date": "May 5",
+      "money_amount": "$471.55"
+    }
+  },
+  {
+    "input": "Thomas Adams visited on September 17 and paid $105.56.",
+    "output": {
+      "name": "Thomas Adams",
+      "date": "September 17",
+      "money_amount": "$105.56"
+    }
+  },
+  {
+    "input": "Andrew Price arrived on June 27 and paid $392.60.",
+    "output": {
+      "name": "Andrew Price",
+      "date": "June 27",
+      "money_amount": "$392.60"
+    }
+  },
+  {
+    "input": "Mia Clark visited on March 17 and paid $417.01.",
+    "output": {
+      "name": "Mia Clark",
+      "date": "March 17",
+      "money_amount": "$417.01"
+    }
+  },
+  {
+    "input": "Emily Bennett visited on September 1 and paid $246.07.",
+    "output": {
+      "name": "Emily Bennett",
+      "date": "September 1",
+      "money_amount": "$246.07"
+    }
+  },
+  {
+    "input": "Navy Hall checked in on January 17 and paid $162.13.",
+    "output": {
+      "name": "Navy Hall",
+      "date": "January 17",
+      "money_amount": "$162.13"
+    }
+  },
+  {
+    "input": "Leah Cox visited on January 8 and paid $644.81.",
+    "output": {
+      "name": "Leah Cox",
+      "date": "January 8",
+      "money_amount": "$644.81"
+    }
+  },
+  {
+    "input": "Carter Wood checked in on April 24 and paid $477.41.",
+    "output": {
+      "name": "Carter Wood",
+      "date": "April 24",
+      "money_amount": "$477.41"
+    }
+  },
+  {
+    "input": "Samuel Murphy arrived on December 10 and paid $495.56.",
+    "output": {
+      "name": "Samuel Murphy",
+      "date": "December 10",
+      "money_amount": "$495.56"
+    }
+  },
+  {
+    "input": "Aria Ross arrived on March 16 and paid $477.53.",
+    "output": {
+      "name": "Aria Ross",
+      "date": "March 16",
+      "money_amount": "$477.53"
+    }
+  },
+  {
+    "input": "Thomas Chavez visited on November 14 and paid $289.98.",
+    "output": {
+      "name": "Thomas Chavez",
+      "date": "November 14",
+      "money_amount": "$289.98"
+    }
+  },
+  {
+    "input": "Emily Bailey checked in on February 1 and paid $520.94.",
+    "output": {
+      "name": "Emily Bailey",
+      "date": "February 1",
+      "money_amount": "$520.94"
+    }
+  },
+  {
+    "input": "Aaliyah Gomez visited on May 26 and paid $372.22.",
+    "output": {
+      "name": "Aaliyah Gomez",
+      "date": "May 26",
+      "money_amount": "$372.22"
+    }
+  },
+  {
+    "input": "Isabella Harris arrived on February 6 and paid $498.78.",
+    "output": {
+      "name": "Isabella Harris",
+      "date": "February 6",
+      "money_amount": "$498.78"
+    }
+  },
+  {
+    "input": "Noah Taylor visited on June 21 and paid $608.55.",
+    "output": {
+      "name": "Noah Taylor",
+      "date": "June 21",
+      "money_amount": "$608.55"
+    }
+  },
+  {
+    "input": "Logan Long arrived on November 27 and paid $217.18.",
+    "output": {
+      "name": "Logan Long",
+      "date": "November 27",
+      "money_amount": "$217.18"
+    }
+  },
+  {
+    "input": "Samuel Allen arrived on March 16 and paid $241.61.",
+    "output": {
+      "name": "Samuel Allen",
+      "date": "March 16",
+      "money_amount": "$241.61"
+    }
+  },
+  {
+    "input": "Thomas Lopez visited on October 22 and paid $329.77.",
+    "output": {
+      "name": "Thomas Lopez",
+      "date": "October 22",
+      "money_amount": "$329.77"
+    }
+  },
+  {
+    "input": "Owen Cox checked in on March 25 and paid $70.89.",
+    "output": {
+      "name": "Owen Cox",
+      "date": "March 25",
+      "money_amount": "$70.89"
+    }
+  },
+  {
+    "input": "Grace Thompson arrived on March 21 and paid $609.36.",
+    "output": {
+      "name": "Grace Thompson",
+      "date": "March 21",
+      "money_amount": "$609.36"
+    }
+  },
+  {
+    "input": "Hannah Evans arrived on May 4 and paid $302.11.",
+    "output": {
+      "name": "Hannah Evans",
+      "date": "May 4",
+      "money_amount": "$302.11"
+    }
+  },
+  {
+    "input": "Julian Johnson checked in on September 3 and paid $490.47.",
+    "output": {
+      "name": "Julian Johnson",
+      "date": "September 3",
+      "money_amount": "$490.47"
+    }
+  },
+  {
+    "input": "Daniel Cruz arrived on June 18 and paid $426.41.",
+    "output": {
+      "name": "Daniel Cruz",
+      "date": "June 18",
+      "money_amount": "$426.41"
+    }
+  },
+  {
+    "input": "Isabella Lopez arrived on February 5 and paid $224.",
+    "output": {
+      "name": "Isabella Lopez",
+      "date": "February 5",
+      "money_amount": "$224"
+    }
+  },
+  {
+    "input": "Christopher Carter checked in on June 18 and paid $89.45.",
+    "output": {
+      "name": "Christopher Carter",
+      "date": "June 18",
+      "money_amount": "$89.45"
+    }
+  },
+  {
+    "input": "Jackson Martinez arrived on October 27 and paid $448.34.",
+    "output": {
+      "name": "Jackson Martinez",
+      "date": "October 27",
+      "money_amount": "$448.34"
+    }
+  },
+  {
+    "input": "Gabriel Garcia arrived on October 24 and paid $377.04.",
+    "output": {
+      "name": "Gabriel Garcia",
+      "date": "October 24",
+      "money_amount": "$377.04"
+    }
+  },
+  {
+    "input": "Charles Campbell checked in on April 8 and paid $618.54.",
+    "output": {
+      "name": "Charles Campbell",
+      "date": "April 8",
+      "money_amount": "$618.54"
+    }
+  },
+  {
+    "input": "Mia Mendoza arrived on June 4 and paid $545.75.",
+    "output": {
+      "name": "Mia Mendoza",
+      "date": "June 4",
+      "money_amount": "$545.75"
+    }
+  },
+  {
+    "input": "Abigail Ramirez visited on June 18 and paid $300.93.",
+    "output": {
+      "name": "Abigail Ramirez",
+      "date": "June 18",
+      "money_amount": "$300.93"
+    }
+  },
+  {
+    "input": "Ruth Morales visited on January 18 and paid $176.17.",
+    "output": {
+      "name": "Ruth Morales",
+      "date": "January 18",
+      "money_amount": "$176.17"
+    }
+  },
+  {
+    "input": "Abigail Williams visited on April 2 and paid $570.34.",
+    "output": {
+      "name": "Abigail Williams",
+      "date": "April 2",
+      "money_amount": "$570.34"
+    }
+  },
+  {
+    "input": "Scarlett Baker arrived on October 8 and paid $272.55.",
+    "output": {
+      "name": "Scarlett Baker",
+      "date": "October 8",
+      "money_amount": "$272.55"
+    }
+  },
+  {
+    "input": "Emily Wilson arrived on May 8 and paid $412.19.",
+    "output": {
+      "name": "Emily Wilson",
+      "date": "May 8",
+      "money_amount": "$412.19"
+    }
+  },
+  {
+    "input": "Savannah Cruz arrived on May 19 and paid $599.44.",
+    "output": {
+      "name": "Savannah Cruz",
+      "date": "May 19",
+      "money_amount": "$599.44"
+    }
+  },
+  {
+    "input": "Chloe Cruz arrived on October 11 and paid $253.20.",
+    "output": {
+      "name": "Chloe Cruz",
+      "date": "October 11",
+      "money_amount": "$253.20"
+    }
+  },
+  {
+    "input": "Aaliyah Flores arrived on March 25 and paid $628.33.",
+    "output": {
+      "name": "Aaliyah Flores",
+      "date": "March 25",
+      "money_amount": "$628.33"
+    }
+  },
+  {
+    "input": "Emily Morris visited on July 12 and paid $99.73.",
+    "output": {
+      "name": "Emily Morris",
+      "date": "July 12",
+      "money_amount": "$99.73"
+    }
+  },
+  {
+    "input": "Henry Robinson visited on September 28 and paid $188.11.",
+    "output": {
+      "name": "Henry Robinson",
+      "date": "September 28",
+      "money_amount": "$188.11"
+    }
+  },
+  {
+    "input": "Madison Wilson arrived on December 23 and paid $159.61.",
+    "output": {
+      "name": "Madison Wilson",
+      "date": "December 23",
+      "money_amount": "$159.61"
+    }
+  },
+  {
+    "input": "Lily Allen arrived on December 10 and paid $567.56.",
+    "output": {
+      "name": "Lily Allen",
+      "date": "December 10",
+      "money_amount": "$567.56"
+    }
+  },
+  {
+    "input": "Julian Davis checked in on July 22 and paid $100.18.",
+    "output": {
+      "name": "Julian Davis",
+      "date": "July 22",
+      "money_amount": "$100.18"
+    }
+  },
+  {
+    "input": "Navy Jackson checked in on March 27 and paid $63.75.",
+    "output": {
+      "name": "Navy Jackson",
+      "date": "March 27",
+      "money_amount": "$63.75"
+    }
+  },
+  {
+    "input": "Christopher Ward visited on August 14 and paid $74.49.",
+    "output": {
+      "name": "Christopher Ward",
+      "date": "August 14",
+      "money_amount": "$74.49"
+    }
+  },
+  {
+    "input": "Owen Robinson arrived on January 15 and paid $554.70.",
+    "output": {
+      "name": "Owen Robinson",
+      "date": "January 15",
+      "money_amount": "$554.70"
+    }
+  },
+  {
+    "input": "Olivia White checked in on April 7 and paid $592.26.",
+    "output": {
+      "name": "Olivia White",
+      "date": "April 7",
+      "money_amount": "$592.26"
+    }
+  },
+  {
+    "input": "Aubrey Castillo visited on April 17 and paid $547.56.",
+    "output": {
+      "name": "Aubrey Castillo",
+      "date": "April 17",
+      "money_amount": "$547.56"
+    }
+  },
+  {
+    "input": "Lillian Myers arrived on June 23 and paid $332.17.",
+    "output": {
+      "name": "Lillian Myers",
+      "date": "June 23",
+      "money_amount": "$332.17"
+    }
+  },
+  {
+    "input": "Anthony Jones arrived on June 15 and paid $574.51.",
+    "output": {
+      "name": "Anthony Jones",
+      "date": "June 15",
+      "money_amount": "$574.51"
+    }
+  },
+  {
+    "input": "Andrew Kim checked in on May 4 and paid $537.46.",
+    "output": {
+      "name": "Andrew Kim",
+      "date": "May 4",
+      "money_amount": "$537.46"
+    }
+  },
+  {
+    "input": "Thomas Baker checked in on October 12 and paid $441.72.",
+    "output": {
+      "name": "Thomas Baker",
+      "date": "October 12",
+      "money_amount": "$441.72"
+    }
+  },
+  {
+    "input": "Aaron Cole visited on June 17 and paid $318.80.",
+    "output": {
+      "name": "Aaron Cole",
+      "date": "June 17",
+      "money_amount": "$318.80"
+    }
+  },
+  {
+    "input": "Joseph Mendoza checked in on March 24 and paid $423.23.",
+    "output": {
+      "name": "Joseph Mendoza",
+      "date": "March 24",
+      "money_amount": "$423.23"
+    }
+  },
+  {
+    "input": "Leah Ramirez checked in on August 3 and paid $241.32.",
+    "output": {
+      "name": "Leah Ramirez",
+      "date": "August 3",
+      "money_amount": "$241.32"
+    }
+  },
+  {
+    "input": "Olivia Martin checked in on October 9 and paid $297.97.",
+    "output": {
+      "name": "Olivia Martin",
+      "date": "October 9",
+      "money_amount": "$297.97"
+    }
+  },
+  {
+    "input": "Skylar Robinson checked in on December 28 and paid $161.56.",
+    "output": {
+      "name": "Skylar Robinson",
+      "date": "December 28",
+      "money_amount": "$161.56"
+    }
+  },
+  {
+    "input": "Harper Carter visited on October 2 and paid $537.16.",
+    "output": {
+      "name": "Harper Carter",
+      "date": "October 2",
+      "money_amount": "$537.16"
+    }
+  },
+  {
+    "input": "Alexander Rivera arrived on April 3 and paid $575.98.",
+    "output": {
+      "name": "Alexander Rivera",
+      "date": "April 3",
+      "money_amount": "$575.98"
+    }
+  },
+  {
+    "input": "Alexander Green arrived on July 11 and paid $254.35.",
+    "output": {
+      "name": "Alexander Green",
+      "date": "July 11",
+      "money_amount": "$254.35"
+    }
+  },
+  {
+    "input": "Grace Gray checked in on September 22 and paid $556.35.",
+    "output": {
+      "name": "Grace Gray",
+      "date": "September 22",
+      "money_amount": "$556.35"
+    }
+  },
+  {
+    "input": "Riley Butler checked in on October 19 and paid $151.60.",
+    "output": {
+      "name": "Riley Butler",
+      "date": "October 19",
+      "money_amount": "$151.60"
+    }
+  },
+  {
+    "input": "Matthew Ruiz arrived on December 23 and paid $606.41.",
+    "output": {
+      "name": "Matthew Ruiz",
+      "date": "December 23",
+      "money_amount": "$606.41"
+    }
+  },
+  {
+    "input": "Alexander Ramirez visited on March 5 and paid $445.43.",
+    "output": {
+      "name": "Alexander Ramirez",
+      "date": "March 5",
+      "money_amount": "$445.43"
+    }
+  },
+  {
+    "input": "Owen Powell checked in on August 1 and paid $383.59.",
+    "output": {
+      "name": "Owen Powell",
+      "date": "August 1",
+      "money_amount": "$383.59"
+    }
+  },
+  {
+    "input": "Ruth Ortiz visited on July 13 and paid $323.02.",
+    "output": {
+      "name": "Ruth Ortiz",
+      "date": "July 13",
+      "money_amount": "$323.02"
+    }
+  },
+  {
+    "input": "Gabriel Roberts checked in on October 9 and paid $156.47.",
+    "output": {
+      "name": "Gabriel Roberts",
+      "date": "October 9",
+      "money_amount": "$156.47"
+    }
+  },
+  {
+    "input": "Grace Reed checked in on June 18 and paid $114.55.",
+    "output": {
+      "name": "Grace Reed",
+      "date": "June 18",
+      "money_amount": "$114.55"
+    }
+  },
+  {
+    "input": "Henry Alvarez checked in on April 26 and paid $512.70.",
+    "output": {
+      "name": "Henry Alvarez",
+      "date": "April 26",
+      "money_amount": "$512.70"
+    }
+  },
+  {
+    "input": "Sebastian Sanders arrived on December 8 and paid $300.41.",
+    "output": {
+      "name": "Sebastian Sanders",
+      "date": "December 8",
+      "money_amount": "$300.41"
+    }
+  },
+  {
+    "input": "Leah Stewart checked in on February 15 and paid $377.22.",
+    "output": {
+      "name": "Leah Stewart",
+      "date": "February 15",
+      "money_amount": "$377.22"
+    }
+  },
+  {
+    "input": "Aria White checked in on July 7 and paid $386.38.",
+    "output": {
+      "name": "Aria White",
+      "date": "July 7",
+      "money_amount": "$386.38"
+    }
+  },
+  {
+    "input": "Isabella Jones visited on November 22 and paid $277.68.",
+    "output": {
+      "name": "Isabella Jones",
+      "date": "November 22",
+      "money_amount": "$277.68"
+    }
+  },
+  {
+    "input": "Aiden Torres arrived on August 5 and paid $441.63.",
+    "output": {
+      "name": "Aiden Torres",
+      "date": "August 5",
+      "money_amount": "$441.63"
+    }
+  },
+  {
+    "input": "Camila Sanchez arrived on March 16 and paid $600.94.",
+    "output": {
+      "name": "Camila Sanchez",
+      "date": "March 16",
+      "money_amount": "$600.94"
+    }
+  },
+  {
+    "input": "Elijah Peterson checked in on October 6 and paid $328.88.",
+    "output": {
+      "name": "Elijah Peterson",
+      "date": "October 6",
+      "money_amount": "$328.88"
+    }
+  },
+  {
+    "input": "Leah Morris arrived on June 23 and paid $475.18.",
+    "output": {
+      "name": "Leah Morris",
+      "date": "June 23",
+      "money_amount": "$475.18"
+    }
+  },
+  {
+    "input": "Lily Bell checked in on May 26 and paid $476.18.",
+    "output": {
+      "name": "Lily Bell",
+      "date": "May 26",
+      "money_amount": "$476.18"
+    }
+  },
+  {
+    "input": "Liam Garcia visited on April 9 and paid $637.98.",
+    "output": {
+      "name": "Liam Garcia",
+      "date": "April 9",
+      "money_amount": "$637.98"
+    }
+  },
+  {
+    "input": "Chloe Mendoza checked in on April 12 and paid $563.33.",
+    "output": {
+      "name": "Chloe Mendoza",
+      "date": "April 12",
+      "money_amount": "$563.33"
+    }
+  },
+  {
+    "input": "Daniel Kim visited on October 3 and paid $587.85.",
+    "output": {
+      "name": "Daniel Kim",
+      "date": "October 3",
+      "money_amount": "$587.85"
+    }
+  },
+  {
+    "input": "Olivia King visited on July 16 and paid $406.34.",
+    "output": {
+      "name": "Olivia King",
+      "date": "July 16",
+      "money_amount": "$406.34"
+    }
+  },
+  {
+    "input": "Anthony Lewis visited on February 27 and paid $550.98.",
+    "output": {
+      "name": "Anthony Lewis",
+      "date": "February 27",
+      "money_amount": "$550.98"
+    }
+  },
+  {
+    "input": "Caleb Phillips visited on May 20 and paid $292.40.",
+    "output": {
+      "name": "Caleb Phillips",
+      "date": "May 20",
+      "money_amount": "$292.40"
+    }
+  },
+  {
+    "input": "Jackson Mendoza checked in on July 9 and paid $292.02.",
+    "output": {
+      "name": "Jackson Mendoza",
+      "date": "July 9",
+      "money_amount": "$292.02"
+    }
+  },
+  {
+    "input": "Logan Howard checked in on October 24 and paid $141.39.",
+    "output": {
+      "name": "Logan Howard",
+      "date": "October 24",
+      "money_amount": "$141.39"
+    }
+  },
+  {
+    "input": "Lillian Chavez visited on October 21 and paid $348.21.",
+    "output": {
+      "name": "Lillian Chavez",
+      "date": "October 21",
+      "money_amount": "$348.21"
+    }
+  },
+  {
+    "input": "Mason King arrived on January 15 and paid $421.68.",
+    "output": {
+      "name": "Mason King",
+      "date": "January 15",
+      "money_amount": "$421.68"
+    }
+  },
+  {
+    "input": "Mia Brown checked in on June 23 and paid $569.42.",
+    "output": {
+      "name": "Mia Brown",
+      "date": "June 23",
+      "money_amount": "$569.42"
+    }
+  },
+  {
+    "input": "Nathan Carter arrived on April 4 and paid $231.93.",
+    "output": {
+      "name": "Nathan Carter",
+      "date": "April 4",
+      "money_amount": "$231.93"
+    }
+  },
+  {
+    "input": "Addison Howard visited on August 21 and paid $643.87.",
+    "output": {
+      "name": "Addison Howard",
+      "date": "August 21",
+      "money_amount": "$643.87"
+    }
+  },
+  {
+    "input": "Scarlett Bell arrived on January 19 and paid $490.68.",
+    "output": {
+      "name": "Scarlett Bell",
+      "date": "January 19",
+      "money_amount": "$490.68"
+    }
+  },
+  {
+    "input": "Isaac Peterson checked in on March 7 and paid $190.34.",
+    "output": {
+      "name": "Isaac Peterson",
+      "date": "March 7",
+      "money_amount": "$190.34"
+    }
+  },
+  {
+    "input": "Zoe Moore visited on May 18 and paid $188.45.",
+    "output": {
+      "name": "Zoe Moore",
+      "date": "May 18",
+      "money_amount": "$188.45"
+    }
+  },
+  {
+    "input": "Ryan Patel visited on February 26 and paid $611.68.",
+    "output": {
+      "name": "Ryan Patel",
+      "date": "February 26",
+      "money_amount": "$611.68"
+    }
+  },
+  {
+    "input": "Logan James arrived on June 15 and paid $468.11.",
+    "output": {
+      "name": "Logan James",
+      "date": "June 15",
+      "money_amount": "$468.11"
+    }
+  },
+  {
+    "input": "Hannah Martin visited on December 17 and paid $98.44.",
+    "output": {
+      "name": "Hannah Martin",
+      "date": "December 17",
+      "money_amount": "$98.44"
+    }
+  },
+  {
+    "input": "Aria Howard arrived on June 12 and paid $146.72.",
+    "output": {
+      "name": "Aria Howard",
+      "date": "June 12",
+      "money_amount": "$146.72"
+    }
+  },
+  {
+    "input": "Molly Jenkins checked in on September 23 and paid $344.49.",
+    "output": {
+      "name": "Molly Jenkins",
+      "date": "September 23",
+      "money_amount": "$344.49"
+    }
+  },
+  {
+    "input": "Andrew Ward arrived on May 26 and paid $552.88.",
+    "output": {
+      "name": "Andrew Ward",
+      "date": "May 26",
+      "money_amount": "$552.88"
+    }
+  },
+  {
+    "input": "Chloe Perry arrived on January 26 and paid $449.45.",
+    "output": {
+      "name": "Chloe Perry",
+      "date": "January 26",
+      "money_amount": "$449.45"
+    }
+  },
+  {
+    "input": "Isaac Sullivan checked in on October 25 and paid $275.85.",
+    "output": {
+      "name": "Isaac Sullivan",
+      "date": "October 25",
+      "money_amount": "$275.85"
+    }
+  },
+  {
+    "input": "Aria Howard arrived on April 17 and paid $248.18.",
+    "output": {
+      "name": "Aria Howard",
+      "date": "April 17",
+      "money_amount": "$248.18"
+    }
+  },
+  {
+    "input": "Navy Murphy checked in on October 25 and paid $478.77.",
+    "output": {
+      "name": "Navy Murphy",
+      "date": "October 25",
+      "money_amount": "$478.77"
+    }
+  },
+  {
+    "input": "Isaac Jenkins visited on May 6 and paid $221.97.",
+    "output": {
+      "name": "Isaac Jenkins",
+      "date": "May 6",
+      "money_amount": "$221.97"
+    }
+  },
+  {
+    "input": "Evelyn Howard arrived on January 10 and paid $608.99.",
+    "output": {
+      "name": "Evelyn Howard",
+      "date": "January 10",
+      "money_amount": "$608.99"
+    }
+  },
+  {
+    "input": "Aaron Sullivan checked in on April 26 and paid $428.78.",
+    "output": {
+      "name": "Aaron Sullivan",
+      "date": "April 26",
+      "money_amount": "$428.78"
+    }
+  },
+  {
+    "input": "Julian Baker checked in on June 13 and paid $546.70.",
+    "output": {
+      "name": "Julian Baker",
+      "date": "June 13",
+      "money_amount": "$546.70"
+    }
+  },
+  {
+    "input": "Benjamin Bennett arrived on March 27 and paid $583.52.",
+    "output": {
+      "name": "Benjamin Bennett",
+      "date": "March 27",
+      "money_amount": "$583.52"
+    }
+  },
+  {
+    "input": "Emily Brown checked in on March 28 and paid $446.13.",
+    "output": {
+      "name": "Emily Brown",
+      "date": "March 28",
+      "money_amount": "$446.13"
+    }
+  },
+  {
+    "input": "Savannah Williams checked in on February 18 and paid $246.85.",
+    "output": {
+      "name": "Savannah Williams",
+      "date": "February 18",
+      "money_amount": "$246.85"
+    }
+  },
+  {
+    "input": "Scarlett Hall visited on June 3 and paid $619.33.",
+    "output": {
+      "name": "Scarlett Hall",
+      "date": "June 3",
+      "money_amount": "$619.33"
+    }
+  },
+  {
+    "input": "Ella Adams arrived on September 11 and paid $540.71.",
+    "output": {
+      "name": "Ella Adams",
+      "date": "September 11",
+      "money_amount": "$540.71"
+    }
+  },
+  {
+    "input": "Lily Flores visited on August 19 and paid $121.72.",
+    "output": {
+      "name": "Lily Flores",
+      "date": "August 19",
+      "money_amount": "$121.72"
+    }
+  },
+  {
+    "input": "Aubrey Thompson checked in on January 2 and paid $176.77.",
+    "output": {
+      "name": "Aubrey Thompson",
+      "date": "January 2",
+      "money_amount": "$176.77"
+    }
+  },
+  {
+    "input": "Elijah Gray arrived on April 5 and paid $430.48.",
+    "output": {
+      "name": "Elijah Gray",
+      "date": "April 5",
+      "money_amount": "$430.48"
+    }
+  },
+  {
+    "input": "Evelyn Smith checked in on February 10 and paid $140.35.",
+    "output": {
+      "name": "Evelyn Smith",
+      "date": "February 10",
+      "money_amount": "$140.35"
+    }
+  },
+  {
+    "input": "Thomas Ortiz arrived on March 16 and paid $369.26.",
+    "output": {
+      "name": "Thomas Ortiz",
+      "date": "March 16",
+      "money_amount": "$369.26"
+    }
+  },
+  {
+    "input": "Sophia Walker arrived on May 24 and paid $243.02.",
+    "output": {
+      "name": "Sophia Walker",
+      "date": "May 24",
+      "money_amount": "$243.02"
+    }
+  },
+  {
+    "input": "Jacob Foster visited on June 6 and paid $632.87.",
+    "output": {
+      "name": "Jacob Foster",
+      "date": "June 6",
+      "money_amount": "$632.87"
+    }
+  },
+  {
+    "input": "Charles Bailey visited on May 19 and paid $570.74.",
+    "output": {
+      "name": "Charles Bailey",
+      "date": "May 19",
+      "money_amount": "$570.74"
+    }
+  },
+  {
+    "input": "Olivia Hall arrived on January 17 and paid $158.90.",
+    "output": {
+      "name": "Olivia Hall",
+      "date": "January 17",
+      "money_amount": "$158.90"
+    }
+  },
+  {
+    "input": "Zoe Morris arrived on August 26 and paid $141.12.",
+    "output": {
+      "name": "Zoe Morris",
+      "date": "August 26",
+      "money_amount": "$141.12"
+    }
+  },
+  {
+    "input": "James Campbell checked in on June 21 and paid $601.11.",
+    "output": {
+      "name": "James Campbell",
+      "date": "June 21",
+      "money_amount": "$601.11"
+    }
+  },
+  {
+    "input": "Emma Morgan checked in on October 26 and paid $638.83.",
+    "output": {
+      "name": "Emma Morgan",
+      "date": "October 26",
+      "money_amount": "$638.83"
+    }
+  },
+  {
+    "input": "Abigail Ruiz checked in on August 8 and paid $67.71.",
+    "output": {
+      "name": "Abigail Ruiz",
+      "date": "August 8",
+      "money_amount": "$67.71"
+    }
+  },
+  {
+    "input": "Lillian Cook arrived on October 4 and paid $478.48.",
+    "output": {
+      "name": "Lillian Cook",
+      "date": "October 4",
+      "money_amount": "$478.48"
+    }
+  },
+  {
+    "input": "Samuel Torres checked in on February 6 and paid $588.",
+    "output": {
+      "name": "Samuel Torres",
+      "date": "February 6",
+      "money_amount": "$588"
+    }
+  },
+  {
+    "input": "Amelia Morales visited on November 6 and paid $628.13.",
+    "output": {
+      "name": "Amelia Morales",
+      "date": "November 6",
+      "money_amount": "$628.13"
+    }
+  },
+  {
+    "input": "Lily Gray visited on December 17 and paid $203.08.",
+    "output": {
+      "name": "Lily Gray",
+      "date": "December 17",
+      "money_amount": "$203.08"
+    }
+  },
+  {
+    "input": "Julian Jenkins arrived on July 17 and paid $160.11.",
+    "output": {
+      "name": "Julian Jenkins",
+      "date": "July 17",
+      "money_amount": "$160.11"
+    }
+  },
+  {
+    "input": "Aiden Reyes visited on May 13 and paid $181.69.",
+    "output": {
+      "name": "Aiden Reyes",
+      "date": "May 13",
+      "money_amount": "$181.69"
+    }
+  },
+  {
+    "input": "Leah Walker visited on March 21 and paid $277.19.",
+    "output": {
+      "name": "Leah Walker",
+      "date": "March 21",
+      "money_amount": "$277.19"
+    }
+  },
+  {
+    "input": "Navy Chavez arrived on February 17 and paid $612.78.",
+    "output": {
+      "name": "Navy Chavez",
+      "date": "February 17",
+      "money_amount": "$612.78"
+    }
+  },
+  {
+    "input": "Emma Thomas arrived on September 11 and paid $395.72.",
+    "output": {
+      "name": "Emma Thomas",
+      "date": "September 11",
+      "money_amount": "$395.72"
+    }
+  },
+  {
+    "input": "Emma Ramirez checked in on November 13 and paid $241.32.",
+    "output": {
+      "name": "Emma Ramirez",
+      "date": "November 13",
+      "money_amount": "$241.32"
+    }
+  },
+  {
+    "input": "Savannah Green arrived on May 7 and paid $479.55.",
+    "output": {
+      "name": "Savannah Green",
+      "date": "May 7",
+      "money_amount": "$479.55"
+    }
+  },
+  {
+    "input": "Thomas Howard checked in on February 28 and paid $293.56.",
+    "output": {
+      "name": "Thomas Howard",
+      "date": "February 28",
+      "money_amount": "$293.56"
+    }
+  },
+  {
+    "input": "Mason Adams visited on June 22 and paid $607.76.",
+    "output": {
+      "name": "Mason Adams",
+      "date": "June 22",
+      "money_amount": "$607.76"
+    }
+  },
+  {
+    "input": "Harper Green visited on October 10 and paid $431.30.",
+    "output": {
+      "name": "Harper Green",
+      "date": "October 10",
+      "money_amount": "$431.30"
+    }
+  },
+  {
+    "input": "Emily Carter visited on February 3 and paid $405.75.",
+    "output": {
+      "name": "Emily Carter",
+      "date": "February 3",
+      "money_amount": "$405.75"
+    }
+  },
+  {
+    "input": "Ella Howard checked in on March 13 and paid $98.07.",
+    "output": {
+      "name": "Ella Howard",
+      "date": "March 13",
+      "money_amount": "$98.07"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  },
+  {
+    "input": "Madison Brown arrived on September 30 and paid $557.28.",
+    "output": {
+      "name": "Madison Brown",
+      "date": "September 30",
+      "money_amount": "$557.28"
+    }
+  },
+  {
+    "input": "Lily Wilson checked in on September 29 and paid $149.49.",
+    "output": {
+      "name": "Lily Wilson",
+      "date": "September 29",
+      "money_amount": "$149.49"
+    }
+  },
+  {
+    "input": "Mason Lee arrived on April 19 and paid $316.25.",
+    "output": {
+      "name": "Mason Lee",
+      "date": "April 19",
+      "money_amount": "$316.25"
+    }
+  },
+  {
+    "input": "Emily Davis checked in on June 17 and paid $490.63.",
+    "output": {
+      "name": "Emily Davis",
+      "date": "June 17",
+      "money_amount": "$490.63"
+    }
+  },
+  {
+    "input": "Aiden Wilson checked in on May 11 and paid $188.24.",
+    "output": {
+      "name": "Aiden Wilson",
+      "date": "May 11",
+      "money_amount": "$188.24"
+    }
+  }
+]
